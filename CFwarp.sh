@@ -185,7 +185,7 @@ green "Оптимальное значение MTU = $MTU установлено
 }
 
 WGproxy(){
-curl -sSL https://gitlab.com/mynknm/acwarp/-/raw/main/acwarp.sh -o acwarp.sh && chmod +x acwarp.sh && bash acwarp.sh
+curl -sSL https://gitlab.com/rwkgyg/CFwarp/-/raw/main/point/acwarp.sh -o acwarp.sh && chmod +x acwarp.sh && bash acwarp.sh
 }
 
 xyz(){
